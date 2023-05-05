@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = elastic_kibana
+build_property.ProjectDir = C:\Users\Administrator\source\repos\elastic-kibana\src\elastic-kibana\
